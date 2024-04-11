@@ -25,7 +25,7 @@ Enter the name of the city you want to check the weather for in the input field.
 Press the "Search" button or hit Enter.
 The weather information for the specified city will be displayed.
 **Live Demo:**
-A live demo of the Weather App is available [here]().
+A live demo of the Weather App is available [here](https://weatherhk.netlify.app).
 
 **Contributing:**
 If you would like to contribute to the development of this Weather App, feel free to fork the repository and submit pull requests.
